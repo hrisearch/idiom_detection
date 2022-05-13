@@ -28,5 +28,6 @@ The codes are all worked on Google Colaboratory with default settings.
 Data is from SemEval2022: Task-2 and can be found [here](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity/tree/main/SubTaskB).
 
 ### Run
+Subtask_B_(English).ipynb is BERT Base with BERTRAM for English.<br>
 Subtask_B_1(Portuguese).ipynb is the baseline (Siamane with BiLSTM) for Portuguese.<br>
 Subtask_B_2(Portuguese).ipynb is BERTimbau Base with BERTRAM for Portuguese.
