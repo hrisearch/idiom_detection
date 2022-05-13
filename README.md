@@ -1,6 +1,6 @@
-# idiom_detection
+# Understanding Idioms: Multilingual Idiomaticity Detection and Sentence Embedding
 
-## Task A
+## Task A: Idiom Detection
 
 Identify whether a sentence contains an idiom
 
@@ -16,3 +16,10 @@ python main.py --model {cnn/rnn}
 
 - python 3
 - tensorflow 2
+
+## Task B: Idiom Representation
+
+## Data
+Data is from SemEval2022: Task-2 and can be found [here](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity/tree/main/SubTaskB)
+
+## Run
